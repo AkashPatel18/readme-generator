@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/readme-generator/static/css/main.3eba17a0.chunk.css",
+    "main.css": "/readme-generator/static/css/main.e60652bb.chunk.css",
     "main.js": "/readme-generator/static/js/main.7b040b91.chunk.js",
     "main.js.map": "/readme-generator/static/js/main.7b040b91.chunk.js.map",
     "runtime-main.js": "/readme-generator/static/js/runtime-main.d5c937e5.js",
@@ -8,13 +8,13 @@
     "static/js/2.547ecbd3.chunk.js": "/readme-generator/static/js/2.547ecbd3.chunk.js",
     "static/js/2.547ecbd3.chunk.js.map": "/readme-generator/static/js/2.547ecbd3.chunk.js.map",
     "index.html": "/readme-generator/index.html",
-    "static/css/main.3eba17a0.chunk.css.map": "/readme-generator/static/css/main.3eba17a0.chunk.css.map",
+    "static/css/main.e60652bb.chunk.css.map": "/readme-generator/static/css/main.e60652bb.chunk.css.map",
     "static/js/2.547ecbd3.chunk.js.LICENSE.txt": "/readme-generator/static/js/2.547ecbd3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d5c937e5.js",
     "static/js/2.547ecbd3.chunk.js",
-    "static/css/main.3eba17a0.chunk.css",
+    "static/css/main.e60652bb.chunk.css",
     "static/js/main.7b040b91.chunk.js"
   ]
 }

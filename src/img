@@ -1,0 +1,304 @@
+ <div className="plimg_div">
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img name="c" id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt=""></img>
+                    </label>
+                </div>
+            
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt=""></img>
+                    </label>
+                </div>
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""></img>
+                    </label>
+                </div>
+                
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt=""></img>
+                    </label>
+                </div>
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://api.iconify.design/logos-perl.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg"  alt=""></img>
+                    </label>
+                </div>
+
+       
+            </div> 
+
+            <h3>Frontend Development</h3>
+            <hr/> 
+
+            <div className="plimg_div">
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"   alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://bestofjs.org/logos/vuetify.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://cdn.worldvectorlogo.com/logos/pug.svg"   alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"   alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"   alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"  alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image"  src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt=""></img>
+                    </label>
+                </div>
+
+                <div className="plimg">
+                    <label htmlFor="cpp">
+                        <input onChange={inputEvent}  type="checkbox"></input>
+                        <img id="cpp" className="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"  alt=""></img>
+                    </label>
+                </div>
+            
+
+            </div> 
+
+            </div>   

@@ -1,21 +1,17 @@
-import React from 'react'
-import Header from './header'
-import Footer from './footer'
-import Main from './main'
+import React from "react";
+import Header from "./header";
+import Footer from "./footer";
+import Main from "./main";
 // import Bio from './bio'
 
-
-const App=()=>{
-  return(
+const App = () => {
+  return (
     <>
-
-      <Header/>
-      <Main/>
-      <Footer/>
-
+      <Header />
+      <Main />
+      <Footer />
     </>
-  )
-}
+  );
+};
 
-
-export default App
+export default App;
